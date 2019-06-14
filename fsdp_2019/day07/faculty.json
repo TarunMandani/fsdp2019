@@ -1,0 +1,44 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 11 16:26:10 2019
+
+@author: lenovo
+"""
+
+
+import json
+json_faculty=[
+              {
+                "faculty_1" : {"name" : "manish",
+                             "last name" : "singhal",
+                             "photo" : "",
+                             "department" : "EC",
+                             "research area" : ["micro controlers",
+                                                "micro processors"
+                                               ],
+                             "contact details" :  [
+                                                   {
+                                                    "mobile no" : "9024533262",
+                                                    "email id" : "manishsinghal@gmail.com"
+                                                   }
+                                                  ]
+                             }   
+               },
+               {
+                       "faculty_2" : {"name" : "deepak",
+                             "last name" : "sharma",
+                             "photo" : "",
+                             "department" : "EC",
+                             "research area" : ["solar",
+                                                "micro processors"
+                                               ],
+                             "contact details" :  [
+                                                   {
+                                                    "mobile no" : "7014183551",
+                                                    "email id" : "deepaksharma@gmail.com"
+                                                   }
+                                                  ]
+                             }  
+               }              
+               
+              ]               

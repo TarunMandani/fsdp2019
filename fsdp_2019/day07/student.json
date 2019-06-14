@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 11 16:27:06 2019
+
+@author: lenovo
+"""
+
+import json
+
+json_student =  {
+                       "student" : {"name" : "Tarun",
+                             "last name" : "Mandani",
+                             "photo" : "",
+                             "department" : "EC",
+                             "year" : "3rd year",
+                             "contact details" :  [
+                                                   {
+                                                    "mobile no" : "9024533262",
+                                                    "email id" : "tarunmandanixig@gmail.com"
+                                                   }
+                                                  ]
+                             }  
+               }              
+              
